@@ -16,6 +16,9 @@
     "markdown",
     "unist"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "nlcst-to-string": "^2.0.4",
     "remark-parse": "^9.0.0",
